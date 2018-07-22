@@ -1,3 +1,3 @@
-# easylistbeta.github.io #
+# easylistbeta.github.io
 
 https://easylistbeta.github.io/
