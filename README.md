@@ -2,4 +2,4 @@
 
 > https://easylistbeta.github.io/
 
-<a href="http://example.com" target="_blank">http://example.com</a>
+[adjustable](http://google.com "Giiidd"){:target="_blank"}
